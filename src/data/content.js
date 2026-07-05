@@ -20,7 +20,7 @@ export const profile = {
     { label: "INSTAGRAM", href: "https://instagram.com/raydisayidan._" },
     // { label: "CV — PDF", href: "#" },
   ],
-  photo: "/public/foto.jpeg",
+  photo: "/foto.jpeg",
 };
 
 export const specs = [
