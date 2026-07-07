@@ -18,7 +18,7 @@ const Contact = forwardRef(function Contact(_, ref) {
         variants={fadeUp}
       >
         <span className="eyebrow">CH.04 — SIGN OFF</span>
-        <h2 className="contact-title">LETS
+        <h2 className="contact-title">LETS'
           <br />
           BROADCASTING
           <br />

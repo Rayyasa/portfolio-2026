@@ -26,9 +26,9 @@ export const profile = {
 export const specs = [
   { key: "FORMAT", value: "Full-Stack Developer" },
   { key: "RUNTIME", value: "3+ years of experience" },
-  { key: "BAHASA", value: "JavaScript · Dart · Pyhthon" },
-  { key: "DESIGN", value: "Pixel-perfect, no compromises" },
-  { key: "AUDIO", value: "Black coffee, no sugar" },
+  { key: "LANGUAGES", value: "JavaScript • Dart • Python" },
+  { key: "DESIGN", value: "Pixel-perfect • no compromises" },
+  { key: "AUDIO", value: "Black coffee • no sugar" },
   { key: "SUBTITLE", value: "ID / EN" },
 ];
 
